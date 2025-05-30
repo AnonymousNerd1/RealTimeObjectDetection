@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 item {
   id: 1
   name: 'Mask'
@@ -9,5 +7,4 @@ item {
   id: 2
   name: 'NoMask'
 }
->>>>>>> 4ceec6b (Add complete label_map.pbtxt)
 
